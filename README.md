@@ -3,13 +3,6 @@
 - 🌱 Atualmente sou estudante de Desenvolvimento Web da Trybe
 
 
-##
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritacassiasr)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ritacassiasr)
-
-
-
 ![Rita Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=ritacassiasr&show_icons=true&theme=gotham) <br> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritacassiasr&theme=gotham&card_width=495)](https://github.com/ritacassiasr/github-readme-stats)
 
@@ -22,7 +15,11 @@
 
 ##
 
+### Vamos nos conectar!
 
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritacassiasr)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ritacassiasr)
 
 
           
