@@ -6,8 +6,8 @@
 
 ##
 
-![Rita Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=ritacassiasr&show_icons=true&theme=dracula)
-
+![Rita Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=ritacassiasr&show_icons=true&theme=dracula) <br> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritacassiasr&theme=dracula&card_width=495)](https://github.com/ritacassiasr/github-readme-stats)
 
 ##
 
