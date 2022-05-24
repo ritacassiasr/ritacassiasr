@@ -4,8 +4,11 @@
 
 ##
 
-![Rita Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=ritacassiasr&show_icons=true&theme=gotham) <br> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritacassiasr&theme=gotham&card_width=495)](https://github.com/ritacassiasr/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/ritacassiasr/github-readme-stats"><img height="165em" alt="Rita Rocha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ritacassiasr&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/ritacassiasr/github-readme-stats"><img height="165em" alt="Rita Rocha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritacassiasr&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+	</a>
+</div>
 
 ##
 
