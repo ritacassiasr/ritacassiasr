@@ -1,6 +1,6 @@
-### Olá! Eu sou a Rita! 👋
+<h2 align="center">Olá! Eu sou a Rita!</h2> 
 
-- 🌱 Atualmente sou estudante de Desenvolvimento Web na Trybe
+<h3 align='center'> 🌱 Atualmente sou estudante de Desenvolvimento Web na Trybe</h3>
 
 ##
 
