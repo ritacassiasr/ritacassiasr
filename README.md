@@ -1,5 +1,4 @@
-Thanks for your visit!
-------------------------
+## Thanks for your visit!
 
 <h4>You can call me Rita Rocha. I'm 39 years old.<br>
 I am currently in a career transition to a Web Developer.<br>
