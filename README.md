@@ -2,7 +2,7 @@
 
 <h4>You can call me Rita Rocha.<br>
 I am currently in a career transition to a Web Developer Full Stack.<br>
-I'm currently improving my technical skills, studyng React, Node.js, and tests at trybe, technology school.<br>
+I'm currently improving my technical skills, studyng React, Node.js, tests etc at trybe, technology school.<br>
 In my spare time, I like to work out at the gym.</h4>
 
 
