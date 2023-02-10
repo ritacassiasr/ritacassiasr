@@ -5,6 +5,7 @@ I'm currently in a career transition to a Web Developer Full Stack.<br>
 I'm currently improving my technical skills, studyng React, Node.js, tests etc at trybe, technology school.<br>
 In my spare time, I like to work out at the gym.</h4>
 
+##
 
 ### Skills
 
