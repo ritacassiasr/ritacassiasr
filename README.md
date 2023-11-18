@@ -1,10 +1,10 @@
-## Thanks for your visit!
+## Olá!
 
-<h4>You can call me Rita Rocha.<br>
-I'm currently in a career transition to a Developer.<br>
-I'm currently improving my technical skills, studyng React, Node.js, tests etc at trybe, technology school.<br>
-I'm studying data science at UFMS. <br>          
-In my spare time, I like to work out at the gym.</h4>
+<h4>Pode me chamar de Rita Rocha :).<br>
+Sou Desenvolvedora Backend.<br>
+Atualmente estou aprimorando minhas habilidades técnicas, estudando React, Node.js, testes etc na trybe, escola de tecnologia.<br>
+Estou cursando ciência de dados na UFMS. <br>
+</h4>
 
 ##
 
