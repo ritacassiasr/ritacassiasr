@@ -3,7 +3,7 @@
 <h4>Pode me chamar de Rita Rocha :).<br>
 Sou Desenvolvedora Backend.<br>
 Há quase dois anos venho aprimorando minhas habilidades técnicas, estudando React, Node.js e MySQL.<br>
-Estou cursando ciência de dados na UFMS. <br>
+Estou cursando Tecnologia da Informação na UFMS. <br>
 </h4>
 
 ##
